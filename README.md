@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently learning and working on <b>  Mobile Application Development on Flutter </b>
 - 💻 I am a <b> Microsoft Office Word Specialist</b>
-- 🌟 I am an <b> Microsoft Technology Associate</b>
 - 🎨 I was the<b> Volunteer Intern at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
 - 📫 How to reach me:<b> 03320325410 </b>
 - 😄 Pronouns:<b> Him....</b>
