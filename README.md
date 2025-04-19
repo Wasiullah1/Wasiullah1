@@ -1,10 +1,10 @@
 <h1 align="center">Hi, This is Wasiullah! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">✨ Computer Engineer | Flutter Mobile Application Developer | FrontEnd Web Developer  ⚡</h3> 
+<h3 align="center">✨ Computer Engineer | FrontEnd Web Developer ReactJS | Flutter Mobile Application Developer ⚡</h3> 
 
 <p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
 
-- 🔭 I’m currently learning and working on <b>  Mobile Application Development on Flutter </b>
-- 💻 I am a <b> Microsoft Office Word Specialist</b>
+- 🔭 I’m currently learning and working as <b>  IT Support Engineer </b>
+- 💻 I am a <b> Frontend Web Developer on ReactJS and Mobile Application Development on Flutter </b>
 - 🎨 I was the<b> Volunteer Intern at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
 - 📫 How to reach me:<b> 03320325410 </b>
 - 😄 Pronouns:<b> Him....</b>
@@ -21,9 +21,9 @@
 
 
 ### Professional Specialities:
-- 💥 <b> Languages: OOP, Dart, C++, Python, JavaScript</b>
+- 💥 <b> Languages: OOP, ReactJS, Dart, C++, Python, JavaScript</b>
 - 💥 <b> Mobile Application Development: Flutter </b>
-- 💥 <b> FrontEnd Web Development: WordPress, HTML, CSS, Bootstrap </b>
+- 💥 <b> FrontEnd Web Development: WordPress, HTML, CSS, Bootstrap, ReactJS </b>
 
 
 ### Connect with me:
